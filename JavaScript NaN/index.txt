@@ -1,0 +1,9 @@
+Javascript use four types of equality algorithms. For example ==, ===, object.is(), Same-value-zero.
+
+IsLooselyEqual: ==
+IsStrictlyEqual: ===
+SameValue: Object.is()
+SameValueZero: used by many built-in operations
+
+
+Resources : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness#same-value_equality_using_object.is
